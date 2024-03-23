@@ -10,7 +10,7 @@ sc.bgcolor("black")
 sc.colormode(255)
 
 move = ["left","right"]
-z = random.randint(1,100)
+#z = random.randint(1,100) will only be useful when you want to remove the limit from the art
 
 
 for i in range(100):
